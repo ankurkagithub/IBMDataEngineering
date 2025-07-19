@@ -1,3 +1,22 @@
 2025-07-19 11:09:38 - URL accessed with confirmation code 200
 2025-07-19 11:09:58 - data extracted
 2025-07-19 11:11:01 - data extracted and loaded into a DataFrame
+2025-07-19 11:46:41 - URL accessed with confirmation code 200
+2025-07-19 11:46:52 - URL accessed with confirmation code 200
+2025-07-19 11:47:52 - URL accessed with confirmation code 200
+2025-07-19 11:47:52 - data extracted and loaded into a DataFrame
+2025-07-19 11:48:59 - URL accessed with confirmation code 200
+2025-07-19 11:48:59 - data extracted and loaded into a DataFrame
+2025-07-19 11:50:10 - URL accessed with confirmation code 200
+2025-07-19 11:50:10 - data extracted and loaded into a DataFrame
+2025-07-19 11:54:12 - URL accessed with confirmation code 200
+2025-07-19 11:54:13 - data extracted and loaded into a DataFrame
+2025-07-19 11:57:01 - URL accessed with confirmation code 200
+2025-07-19 11:57:01 - data extracted and loaded into a DataFrame
+2025-07-19 12:03:35 - URL accessed with confirmation code 200
+2025-07-19 12:03:35 - data extracted and loaded into a DataFrame
+2025-07-19 12:04:34 - Transformation: New currency added for EUR, GBP and INR
+2025-07-19 12:06:13 - URL accessed with confirmation code 200
+2025-07-19 12:06:13 - data extracted and loaded into a DataFrame
+2025-07-19 12:06:26 - URL accessed with confirmation code 200
+2025-07-19 12:06:26 - data extracted and loaded into a DataFrame
