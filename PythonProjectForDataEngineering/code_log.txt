@@ -34,3 +34,25 @@
 2025-07-19 12:28:36 - Transformation: New currency added for EUR, GBP and INR
 2025-07-19 12:28:38 - CSV file created: Dataframe data written in CSV file
 2025-07-19 12:39:50 - CSV file created: DataFramewritten in CSV file
+2025-07-19 13:18:54 - URL Fetched: status code is 200
+2025-07-19 13:18:54 - Extraction: data extracted and loaded into a DataFrame
+2025-07-19 13:20:14 - URL Fetched: status code is 200
+2025-07-19 13:20:14 - Extraction: data extracted and loaded into a DataFrame
+2025-07-19 13:20:42 - Transformation: New currency added for EUR, GBP and INR
+2025-07-19 13:20:46 - CSV file created: DataFramewritten in CSV file
+2025-07-19 13:20:49 - CSV file created: DataFramewritten in CSV file
+2025-07-19 13:26:46 - URL Fetched: status code is 200
+2025-07-19 13:26:46 - Extraction: data extracted and loaded into a DataFrame
+2025-07-19 13:27:50 - Transformation: New currency added for EUR, GBP and INR
+2025-07-19 13:27:54 - CSV file created: DataFramewritten in CSV file
+2025-07-19 13:27:57 - CSV file created: DataFramewritten in CSV file
+2025-07-19 13:36:01 - URL Fetched: status code is 200
+2025-07-19 13:36:01 - Extraction: data extracted and loaded into a DataFrame
+2025-07-19 13:36:01 - Transformation: New currency added for EUR, GBP and INR
+2025-07-19 13:36:01 - CSV file created: DataFramewritten in CSV file
+2025-07-19 13:36:01 - CSV file created: DataFramewritten in CSV file
+2025-07-19 13:36:18 - URL Fetched: status code is 200
+2025-07-19 13:36:18 - Extraction: data extracted and loaded into a DataFrame
+2025-07-19 13:36:18 - Transformation: New currency added for EUR, GBP and INR
+2025-07-19 13:36:18 - CSV file created: DataFramewritten in CSV file
+2025-07-19 13:36:18 - CSV file created: DataFramewritten in CSV file

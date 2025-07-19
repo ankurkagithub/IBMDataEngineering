@@ -1,4 +1,4 @@
-bank_name,market_cap(USD_billion),market_cap(EUR_billion),market_cap(GBP_billion),market_cap(INR_billion)
+Name,MC_USD_Billion,MC_EUR_Billion,MC_GBP_Billion,MC_INR_Billion
 JPMorgan Chase,432.92,402.62,346.34,35910.71
 Bank of America,231.52,215.31,185.22,19204.58
 Industrial and Commercial Bank of China,194.56,180.94,155.65,16138.75
