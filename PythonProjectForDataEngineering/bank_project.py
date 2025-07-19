@@ -64,3 +64,22 @@ def transform(df, csv_path):
     df['market_cap(INR_billion)'] = df['market_cap(USD_billion)'] * ex_df.loc['INR','Rate']
     log_info('Transformation: New currency added for EUR, GBP and INR')
     return df
+
+
+def load_to_db(df, sql_connection, table_name):
+    ''' This function saves the final data frame to a database
+    table with the provided name. Function returns nothing.'''
+    try:
+        df.to_sql(table_name, sql_connection, if_exists = 'replace', index = False)
+    except:
+        print("Error encountered while accessing DB")
+    finally:
+        log_info('CSV file created: DataFramewritten in CSV file')
+        sql_connection.close()
+
+def run_query(query_statement, sql_connection):
+    ''' This function runs the query on the database table and
+    prints the output on the terminal. Function returns nothing. '''
+    db_df = pd.read_sql(query_statement,sql_connection)
+    sql_connection.close()
+    print(db_df)
