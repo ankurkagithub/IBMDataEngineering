@@ -1,0 +1,3 @@
+2025-07-19 11:09:38 - URL accessed with confirmation code 200
+2025-07-19 11:09:58 - data extracted
+2025-07-19 11:11:01 - data extracted and loaded into a DataFrame
